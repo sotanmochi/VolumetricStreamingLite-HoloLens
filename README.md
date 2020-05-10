@@ -1,7 +1,9 @@
 # Volumetric Streaming Lite for HoloLens
 
+## Streaming Client and Server
+Streaming client and server project is [Volumetric Streaming Lite](https://github.com/sotanmochi/VolumetricStreamingLite).
+
 ## Tested environment
-### Client
 - Unity 2018.4.21f1
 - Visual Studio 2019
 - HoloLens
