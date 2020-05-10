@@ -32,6 +32,14 @@ Assets/Plugins/*
 !Assets/TextMesh Pro/
 !Assets/TextMesh Pro.meta
 
+# ============ #
+# Certificates #
+# ============ #
+*.cert
+*.privkey
+*.pfx
+*.pfx.meta
+
 #
 # This .gitignore file should be placed at the root of your Unity project directory
 #
