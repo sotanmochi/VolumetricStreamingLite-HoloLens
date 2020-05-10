@@ -5,6 +5,7 @@
 - Unity 2018.4.21f1
 - Visual Studio 2019
 - HoloLens
+- HoloLens 2
 
 ## Third party assets
 このプロジェクトには、以下のアセットが含まれています。  
