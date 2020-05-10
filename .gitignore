@@ -26,8 +26,8 @@ Assets/Plugins/*
 !Assets/LiteNetLib-0.8.3/
 !Assets/LiteNetLib-0.8.3.meta
 
-# !Assets/MixedRealityToolkit*/
-# !Assets/MixedRealityToolkit*.meta
+!Assets/MixedRealityToolkit*/
+!Assets/MixedRealityToolkit*.meta
 
 !Assets/TextMesh Pro/
 !Assets/TextMesh Pro.meta
